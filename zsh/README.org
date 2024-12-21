@@ -1,0 +1,10 @@
+* ZSH Configuration
+** Prerequisites
+- [[https://github.com/rossmacarthur/sheldon][Sheldon]] for ZSH plugin management
+- [[https://ohmyposh.dev/][Oh My Posh]] for shell prompt
+- [[https://github.com/junegunn/fzf][fzf]] for fuzzy finding
+- [[https://github.com/eza-community/eza][ eza]] as a better replacement for /ls/
+- Any [[https://www.nerdfonts.com/][Nerd Font]] for nice icons
+  #+BEGIN_SRC shell
+    brew install sheldon jandedobbeleer/oh-my-posh/oh-my-posh fzf eza
+  #+END_SRC
