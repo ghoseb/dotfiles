@@ -1,0 +1,8 @@
+* Wezterm Configuration
+** Prerequisites
+- Install a [[https://www.nerdfonts.com/][Nerd Font]]
+- I am using Iosevka Term Slab here
+
+  #+BEGIN_SRC shell
+    brew install --cask font-iosevka-term-slab-nerd-font
+  #+END_SRC
